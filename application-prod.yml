@@ -1,3 +1,7 @@
+spring:
+  application:
+    name: config-prodyml
+
 eureka:
   instance:
     prefer-ip-address: true
