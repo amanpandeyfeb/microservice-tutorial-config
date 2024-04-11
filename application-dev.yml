@@ -1,6 +1,6 @@
-spring:
-  application:
-    name: config-devyml
+#spring:
+ # application:
+  #  name: config-devyml
 
 eureka:
   instance:
