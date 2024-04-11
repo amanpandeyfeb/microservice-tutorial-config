@@ -1,6 +1,6 @@
-spring:
-  application:
-    name: config-yml
+#spring:
+ # application:
+  #  name: config-yml
 eureka:
   instance:
     prefer-ip-address: true
